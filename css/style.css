@@ -1,0 +1,27 @@
+body{
+    font-size: 20px;
+    font-family: 'Open sans-serif';
+}
+h1, h2{
+    text-align: center;
+}
+#dog-image-container{
+    width: 70%;
+    margin: 10px auto;
+}
+img{
+    margin: 10px;
+}
+#breed-name{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+label{
+    font-size: 1em;
+}
+
+#breed-dropdown{
+    width: 100px;
+    font-size: 1em;
+}
